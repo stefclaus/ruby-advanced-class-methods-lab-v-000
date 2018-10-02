@@ -71,8 +71,6 @@ class Song
   
   def self.destroy_all
     @@all.clear
-=======
->>>>>>> 44d32c2e4bcd16f9e44595c4505912c15d71c5c1
   end 
   
 end
